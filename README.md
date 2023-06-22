@@ -1,3 +1,5 @@
+
+
 # Simple DevOps Project
 
 [![Image](https://github.com/yankils/Simple-DevOps-Project/blob/master/Devops_course.PNG "DevOps Project - CI/CD with Jenkins Ansible Docker Kubernetes ")](https://www.udemy.com/course/valaxy-devops/?referralCode=8147A5CF4C8C7D9E253F)
@@ -12,4 +14,10 @@ By following this repository you can able to setup a DevOps CI/CD Pipeline using
 - Ansible
 - Docker &
 - Kubernetes
+
 Trying to learn CICD June 22 3:42:15
+
+This is my first CICD lab in CG
+
+New line added to anu branch
+
