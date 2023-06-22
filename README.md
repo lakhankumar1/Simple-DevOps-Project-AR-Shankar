@@ -13,3 +13,4 @@ By following this repository you can able to setup a DevOps CI/CD Pipeline using
 - Docker &
 - Kubernetes
 Trying to learn CICD June 22 3:42:15
+This is my first CICD lab in CG
