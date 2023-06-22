@@ -15,3 +15,5 @@ By following this repository you can able to setup a DevOps CI/CD Pipeline using
 
 Hi Cloudguru
 I am trying to learn CICD process in CG
+trying to make the changes on the new repo
+hi
