@@ -13,3 +13,5 @@ By following this repository you can able to setup a DevOps CI/CD Pipeline using
 - Docker &
 - Kubernetes
 
+Hi Cloudguru
+I am trying to learn CICD process in CG
